@@ -1,4 +1,3 @@
 # Example Repository
-This is an example repo, hello world!
 
-This is another change
+This is an example repo, that I will use to practice git
