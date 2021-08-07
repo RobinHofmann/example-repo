@@ -30,49 +30,35 @@
     font-weight: normal;
   }
   
-  header .social-nav {
+  header .my-nav {
     position: absolute;
     bottom: -30px;
   }
   
-  .social-nav ul {
+  .my-nav ul {
     list-style-type: none;
     margin: 0;
   }
   
-  .social-nav ul li {
+  .my-nav ul li {
+    color: white;
     display: inline-block;
     width: 60px;
     height: 60px;
     margin-right: 1em;
   }
   
-  .social-nav ul li:last-child {
+  .my-nav ul li:last-child {
     margin-right: 0;
   }
   
-  .social-nav ul li a {
+  .my-nav ul li a {
     display: block;
     width: 100%;
     height: 100%;
     border-radius: 100%;
     background-color: blue;
     border: 4px solid white;
-  }
-  
-  .social-nav .sn-twitter {
-    background: url('./images/twitter.svg') no-repeat 50% 50%;
-    background-color: #1DA1F2;
-  }
-  
-  .social-nav .sn-instagram {
-    background: url('./images/instagram.svg') no-repeat 50% 50%;
-    background-color: #E1306C;
-  }
-  
-  .social-nav .sn-website{
-    background: url('./images/globe.svg') no-repeat 50% 50%;
-    background-color: #77A8B1;
   }
   
   section.about {
